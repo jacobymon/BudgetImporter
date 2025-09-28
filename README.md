@@ -2,7 +2,7 @@
 
 A Python script to automate the process of uploading financial transactions from Chase CSV files to a Google Sheets monthly budget template.
 
-note that the script is designed to work for Chase CSVs. I reccommend uploading the last months saving,checking and Credit card transactions. Please note that spending is categorized roughly and may not be entirely accurate. The algorithm is personalized for me, but can serve as an adjustable template for you. Always double check the description on the actual Chase transaction statement if the Budget seems fishy. For example, negative checking/saving transactions greater than $300 and are Zelles, are categorized as "Personal" in order to avoid duplicate transaction on paying credit card fees, which could lead to rare edge cases of transaction being ignored.
+note that the script is designed to work for Chase CSVs. I reccommend uploading the last months saving, checking and credit card transactions. Please note that spending is categorized roughly and may not be entirely accurate. The algorithm is personalized for me, but can serve as an adjustable template for you. Always double check the description on the actual Chase transaction statement if the budget seems fishy. For example, negative checking/saving transactions greater than $300 and are Zelles, are categorized as "Personal" in order to avoid duplicate transaction on paying credit card fees, which could lead to rare edge cases of transactions being ignored.
 
 ## Features
 
