@@ -1,0 +1,5 @@
+# Ignore Google Cloud credentials
+credentials.json
+
+# Ignore all CSV files containing transaction data
+*.csv
